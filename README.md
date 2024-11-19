@@ -1,16 +1,20 @@
-# final_exam
+<h1 align="center">👉 Final Exam 👈</h1>
 
-A new Flutter project.
+# Description
+A Flutter-based expense tracking app that leverages SQL for local data management and Firebase for cloud storage. It supports full CRUD operations in SQL to add, edit, delete, and retrieve expenses, ensuring smooth offline functionality. Firebase integration enables syncing data across devices, offering a seamless blend of offline and online tracking.
 
-## Getting Started
+<h3 align="center"> Final Exam Video </h3>
+https://drive.google.com/file/d/1FHdilXdy6iAcR_vvhqJzoMFwpSAOERn1/view?usp=drive_link
 
-This project is a starting point for a Flutter application.
+<h3 align="center">👉 Final Exam Image 👈</h3>
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/2d49a957-db32-431a-8ba4-2154a0d10b97" />
+  <img height="550"  src="https://github.com/user-attachments/assets/d20b3bc1-d696-48d0-a567-fb9ae430e626" />
+  <img height="550"  src="https://github.com/user-attachments/assets/2bd69491-7dd8-4749-b436-3ad7b3fb6b89" />
+  <img height="550"  src="https://github.com/user-attachments/assets/5c6c2d67-5da5-4034-aa3f-5541f1ea7cd4" />
+  <img height="550"  src="https://github.com/user-attachments/assets/76c2e99f-f63f-45d9-a337-d6c4f95b7296" />
+</div>
+<div align="center">
+<a href="https://github.com/YashuPatel1724/final_exam/tree/master/lib">-> 📂 Go To Dart File 📂 </a>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
