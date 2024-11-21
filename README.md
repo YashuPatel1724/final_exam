@@ -4,7 +4,7 @@
 A Flutter-based expense tracking app that leverages SQL for local data management and Firebase for cloud storage. It supports full CRUD operations in SQL to add, edit, delete, and retrieve expenses, ensuring smooth offline functionality. Firebase integration enables syncing data across devices, offering a seamless blend of offline and online tracking.
 
 <h3 align="center"> Final Exam Video </h3>
-https://drive.google.com/file/d/1FHdilXdy6iAcR_vvhqJzoMFwpSAOERn1/view?usp=drive_link
+https://drive.google.com/file/d/1IY7TYTjftV3qkWLjCHbiyL8S6wAcTxWA/view?usp=drive_link
 
 <h3 align="center">👉 Final Exam Image 👈</h3>
 <div align="center">
